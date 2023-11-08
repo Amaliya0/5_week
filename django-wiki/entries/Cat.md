@@ -1,2 +1,2 @@
-#Dog
-A dog is a friendly guy
+#CATS
+Text of your choise, but this page is about cats
